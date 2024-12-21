@@ -33,7 +33,9 @@ app = FastAPI(lifespan=lifespan)
 
 llm = ChatOllama(base_url="http://localhost:11434", model="llama3.2:1b")
 
-embedding_function = OllamaEmbeddings(base_url="http://localhost:11434", model="nomic-embed-text")
+embedding_function = OllamaEmbeddings(
+    base_url="http://localhost:11434", model="nomic-embed-text"
+)
 
 # Get the dimension of the embeddings
 sample_text = "This is a sample text to get the embedding dimension."
@@ -115,7 +117,7 @@ Please suggest recipes that:
 2. Match the user's query
 3. Are practical and detailed
 
-If the available ingredients are not sufficient, mention what additional ingredients would be needed.
+If the available ingredients for the recipe are not present, mention that the recipe cannot be made.
 """,
         )
 
