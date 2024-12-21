@@ -1,0 +1,113 @@
+Recipe 1: Chocolate Chip Cookies
+Name: Chocolate Chip Cookies
+Cuisine Type: American
+Taste: Sweet
+Preparation Time: 30 minutes
+Ingredients:
+
+2 1/4 cups all-purpose flour
+1/2 teaspoon baking soda
+1 cup unsalted butter, melted
+1/2 cup granulated sugar
+1 cup packed brown sugar
+2 teaspoons vanilla extract
+1/2 teaspoon salt
+2 large eggs
+2 cups semisweet chocolate chips
+Instructions:
+
+Preheat oven to 350°F (175°C).
+Mix flour and baking soda in a small bowl.
+In a large bowl, combine butter, sugars, vanilla, and salt. Add eggs and mix well.
+Gradually add the flour mixture and stir until combined.
+Fold in chocolate chips.
+Drop spoonfuls of dough onto a baking sheet.
+Bake for 10–12 minutes or until golden brown.
+Recipe 2: Spaghetti Carbonara
+Name: Spaghetti Carbonara
+Cuisine Type: Italian
+Taste: Savory
+Preparation Time: 25 minutes
+Ingredients:
+
+400g spaghetti
+2 large eggs
+100g Parmesan cheese, grated
+100g pancetta, diced
+2 cloves garlic, minced
+Salt and black pepper to taste
+2 tablespoons olive oil
+Instructions:
+
+Cook spaghetti according to package instructions. Reserve 1/2 cup of pasta water.
+In a bowl, whisk eggs and Parmesan cheese.
+Heat olive oil in a pan and cook pancetta until crispy. Add garlic and sauté briefly.
+Toss cooked spaghetti in the pan with pancetta.
+Remove from heat, quickly mix in the egg mixture, and add reserved pasta water to create a creamy sauce.
+Season with salt and pepper. Serve immediately.
+Recipe 3: Veggie Stir-Fry
+Name: Veggie Stir-Fry
+Cuisine Type: Asian
+Taste: Umami
+Preparation Time: 20 minutes
+Ingredients:
+
+2 cups broccoli florets
+1 red bell pepper, sliced
+1 cup snap peas
+1 carrot, julienned
+2 tablespoons soy sauce
+1 tablespoon sesame oil
+1 teaspoon garlic, minced
+1 teaspoon ginger, minced
+1 teaspoon cornstarch mixed with 2 tablespoons water
+Instructions:
+
+Heat sesame oil in a wok or large skillet.
+Add garlic and ginger, sauté for 1 minute.
+Add broccoli, bell pepper, snap peas, and carrot. Stir-fry for 5 minutes.
+Mix in soy sauce and the cornstarch slurry. Cook until sauce thickens.
+Serve hot over rice or noodles.
+Recipe 4: Banana Pancakes
+Name: Banana Pancakes
+Cuisine Type: American
+Taste: Sweet
+Preparation Time: 20 minutes
+Ingredients:
+
+1 cup all-purpose flour
+2 tablespoons sugar
+1 teaspoon baking powder
+1/2 teaspoon baking soda
+1/4 teaspoon salt
+1 cup milk
+1 ripe banana, mashed
+1 large egg
+2 tablespoons melted butter
+Instructions:
+
+In a bowl, mix flour, sugar, baking powder, baking soda, and salt.
+In another bowl, whisk milk, mashed banana, egg, and melted butter.
+Combine wet and dry ingredients until just mixed.
+Heat a non-stick pan and pour 1/4 cup batter for each pancake.
+Cook until bubbles form on the surface, then flip and cook until golden brown.
+Serve with syrup or fresh fruit.
+Recipe 5: Caprese Salad
+Name: Caprese Salad
+Cuisine Type: Italian
+Taste: Fresh
+Preparation Time: 10 minutes
+Ingredients:
+
+2 large tomatoes, sliced
+200g fresh mozzarella, sliced
+Fresh basil leaves
+2 tablespoons olive oil
+1 tablespoon balsamic glaze
+Salt and pepper to taste
+Instructions:
+
+Arrange tomato and mozzarella slices alternately on a plate.
+Add fresh basil leaves between the slices.
+Drizzle with olive oil and balsamic glaze.
+Sprinkle with salt and pepper. Serve immediately.
